@@ -35,4 +35,6 @@ To adapt the script to your requirements, you can tweak various settings:
 
 Script developped by LYRO. If you want to propose a new mode, improve a feature or correct a bug, don't hesitate to make a pull request. I will review it as soon as possible.
 
+The gradients have been taken from [uiGradients.com](https://uigradients.com "uiGradients").
+
 This script is distributed for free and for everyone. Feel free to use it on your website!
