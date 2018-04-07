@@ -13,8 +13,8 @@ See the README for more informations
 
 /* ----------------------------| CONFIGURATION |------------------------------*/
 
-var div = "#test";
-var mode = 1;
+var div = "body";
+var mode = "gradient";
 
 /* -----------------------------| FUNCTIONS |---------------------------------*/
 
@@ -22,7 +22,7 @@ function changeBackground(mode, time = new Date($.now()))
 {
   switch(mode)
   {
-    case 1:
+    case "gradient":
       var hour = time.getHours();
       // Sunrise
       if (hour > 6 && hour < 9)
